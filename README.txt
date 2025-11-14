@@ -1,4 +1,4 @@
-DiskTrim 🧹
+DirtBytes 🧹
 A lightweight Python script that frees up space by removing unnecessary junk files, built and refined personally.
 
 Installation 🚀
@@ -18,3 +18,4 @@ License for Python installers: https://docs.python.org/3/license.html
 
 • Python installers and related files belong to the Python Software Foundation (PSF). I do not claim ownership of Python itself.
 • DiskTrim is currently on the back end, sorry folks! I’ll update it occasionally or by request, otherwise don't expect weekly uploads.
+
