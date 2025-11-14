@@ -17,5 +17,6 @@ See the LICENSE file for details.
 License for Python installers: https://docs.python.org/3/license.html
 
 • Python installers and related files belong to the Python Software Foundation (PSF). I do not claim ownership of Python itself.
-• DiskTrim is currently on the back end, sorry folks! I’ll update it occasionally or by request, otherwise don't expect weekly uploads.
+• DirtBytes is currently on the back end, sorry folks! I’ll update it occasionally or by request, otherwise don't expect weekly uploads.
+
 
