@@ -14,5 +14,6 @@ Why DirtBytes?
 • Perfect for cleaning up your system before gaming, modding, or development.
 
 📜 License & Credits 📜
-- Licensed by the GNU GENERAL PUBLIC LICENSE (Version 3 - 2007)
+• Licensed by the GNU GENERAL PUBLIC LICENSE (Version 3 - 2007)
 • DirtBytes is currently running on the back end, updates will be occasional or by request.
+• Credits to ChatGPT for helping with coding, and main credits to me, the creator!
